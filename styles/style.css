@@ -9,13 +9,13 @@ body {
     width: 80%;
     margin: auto;
     overflow: hidden;
-    /* display: flex; */
 }
 
-
-/* .service-container {
-
-} */
+.service-container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
 
 .dark {
     padding: 15px;
