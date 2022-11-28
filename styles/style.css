@@ -110,6 +110,19 @@ header a:hover {
     float: left;
 }
 
+
+/* Partners */
+/* Newsletter */
+#partners {
+    padding: 15px;
+    color: #ffffff;
+    background: #353637;
+}
+
+#partners h1 {
+    float: left;
+}
+
 #newsletter form {
     float: right;
     margin-top: 15px;
