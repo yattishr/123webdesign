@@ -17,6 +17,12 @@ body {
     display: flex;
 }
 
+.partner-container {
+    width: 80%;
+    margin: auto;
+    display: inline
+}
+
 .dark {
     padding: 15px;
     background: #35424a;
