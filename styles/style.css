@@ -6,11 +6,16 @@ body {
 }
 
 .container {
-    width: 80%;
+    /* width: 80%; */
     margin: auto;
     overflow: hidden;
     display: flex;
 }
+
+
+/* .service-container {
+
+} */
 
 .dark {
     padding: 15px;
