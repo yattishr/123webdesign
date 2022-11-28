@@ -9,6 +9,7 @@ body {
     width: 80%;
     margin: auto;
     overflow: hidden;
+    display: flex;
 }
 
 .dark {
@@ -140,7 +141,7 @@ header a:hover {
 #boxes .box {
     float: left;
     text-align: center;
-    width: 50%;
+    width: 30%;
     padding: 10px;
 }
 
