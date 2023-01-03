@@ -210,6 +210,49 @@ ul#services h3 {
     border-bottom: #353637 solid 1px;
 }
 
+/* ChatGPT generated content */
+.services {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  /* Style the service cards */
+  .service-card {
+    width: 300px;
+    height: 200px;
+    background-color: #eee;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Style the service icons */
+  .service-icon {
+    font-size: 48px;
+    color: #333;
+  }
+  
+  /* Style the service titles */
+  .service-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  /* Style the service descriptions */
+  .service-description {
+    font-size: 16px;
+    color: #666;
+    text-align: center;
+  }
+/* ChatGPT generated content */
+
 /* Media Query */
 @media(max-width: 768px) {
     header #branding,
